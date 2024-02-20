@@ -1,1 +1,1 @@
-alert("The test extension is up and running")
+var links = document.getElementsByTagName('a')
